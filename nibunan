@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Internal CSS Example</title>
+<style>
+body {
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.highlight {
+  color: blue;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+
+<h1>My Webpage</h1>
+
+<p>This is a paragraph of text.  This is a <span class="highlight">highlighted</span> word.</p>
+
+<p>Another paragraph.</p>
+
+</body>
+</html>
